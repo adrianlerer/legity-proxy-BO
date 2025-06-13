@@ -1,0 +1,11 @@
+{
+  "name": "legity-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para LEGITY™ - Acceso a datos BORA desde N8N",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
